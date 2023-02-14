@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "https://ikurodev.github.io/csb-zkxjv5/static/css/main.80c019a2.chunk.css",
+    "main.js": "https://ikurodev.github.io/csb-zkxjv5/static/js/main.a8ad5a48.chunk.js",
+    "main.js.map": "https://ikurodev.github.io/csb-zkxjv5/static/js/main.a8ad5a48.chunk.js.map",
+    "runtime-main.js": "https://ikurodev.github.io/csb-zkxjv5/static/js/runtime-main.567fb22a.js",
+    "runtime-main.js.map": "https://ikurodev.github.io/csb-zkxjv5/static/js/runtime-main.567fb22a.js.map",
+    "static/js/2.c4eeff4c.chunk.js": "https://ikurodev.github.io/csb-zkxjv5/static/js/2.c4eeff4c.chunk.js",
+    "static/js/2.c4eeff4c.chunk.js.map": "https://ikurodev.github.io/csb-zkxjv5/static/js/2.c4eeff4c.chunk.js.map",
+    "index.html": "https://ikurodev.github.io/csb-zkxjv5/index.html",
+    "static/css/main.80c019a2.chunk.css.map": "https://ikurodev.github.io/csb-zkxjv5/static/css/main.80c019a2.chunk.css.map",
+    "static/js/2.c4eeff4c.chunk.js.LICENSE.txt": "https://ikurodev.github.io/csb-zkxjv5/static/js/2.c4eeff4c.chunk.js.LICENSE.txt",
+    "static/media/choo-card.9d6da0f9.jpg": "https://ikurodev.github.io/csb-zkxjv5/static/media/choo-card.9d6da0f9.jpg",
+    "static/media/rafa-happy.d78e1030.jpeg": "https://ikurodev.github.io/csb-zkxjv5/static/media/rafa-happy.d78e1030.jpeg",
+    "static/media/rafa-sad.0e1e2ef3.jpeg": "https://ikurodev.github.io/csb-zkxjv5/static/media/rafa-sad.0e1e2ef3.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.567fb22a.js",
+    "static/js/2.c4eeff4c.chunk.js",
+    "static/css/main.80c019a2.chunk.css",
+    "static/js/main.a8ad5a48.chunk.js"
+  ]
+}
